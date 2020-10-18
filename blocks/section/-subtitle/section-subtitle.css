@@ -1,0 +1,13 @@
+.section-subtitle {
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+
+  margin-top: 20px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}

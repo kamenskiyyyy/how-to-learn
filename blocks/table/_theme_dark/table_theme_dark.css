@@ -1,0 +1,6 @@
+.table_theme_dark {
+  margin-top: 80px;
+  grid-template-columns: 200px 200px 200px 200px 200px;
+  grid-row-gap: 80px;
+  color: white;
+}
