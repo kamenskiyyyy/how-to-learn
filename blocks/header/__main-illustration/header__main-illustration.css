@@ -4,4 +4,7 @@
   bottom: 0;
   width: 765px;
   height: 608px;
+  object-fit: contain;
+  object-position: right bottom;
+  z-index: 1;
 }
