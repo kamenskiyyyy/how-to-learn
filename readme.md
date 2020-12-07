@@ -8,3 +8,5 @@
 * файловая структура преобразована по технологии Nested
 * добавлены новые блоки
 
+## Просмотр
+* [Ссылка на GitHub Pages](https://kamenskiyyyy.github.io/how-to-learn/index.html)
